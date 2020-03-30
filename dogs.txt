@@ -2,3 +2,6 @@ Breeds
     Labrador
     Husky
     Dalmation
+    Poodle
+    Labradoodle
+    Collie
